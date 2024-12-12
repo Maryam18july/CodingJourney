@@ -1,1 +1,2 @@
-# CodingJourney
+# MyCodingJourney
+end to end projects
