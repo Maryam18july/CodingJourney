@@ -1,1 +1,1 @@
-# CodingJourney
+# MyCodingJourney
